@@ -1,11 +1,11 @@
 Sales Analysis
-📌 Project Overview
+ Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on sales data using Python. The analysis focuses on understanding customer demographics, purchasing patterns, sales performance, and product trends.
 
 The dataset is cleaned and analyzed using Pandas, followed by visual exploration with Matplotlib and Seaborn.
 
-🎯 Objectives
+ Objectives
 Clean and prepare the sales dataset for analysis
 Analyze customer demographics and purchasing behavior
 Identify high-performing states based on orders and sales
@@ -14,7 +14,7 @@ Analyze sales by marital status and occupation
 Identify top-performing product categories
 Find the most frequently ordered products
 Derive insights from customer and sales patterns
-🛠️ Technologies & Libraries
+ Technologies & Libraries
 Python
 Pandas
 NumPy
